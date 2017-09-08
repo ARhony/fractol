@@ -1,7 +1,7 @@
 # fractol
-This program will show you 3 different fractals. Mandelbrot, Julia and another version of Julia(cubbed).
-1 -> Mandelbrot
-2 -> Julia
+This program will show you 3 different fractals. Mandelbrot, Julia and another version of Julia(cubbed).<br />
+1 -> Mandelbrot<br />
+2 -> Julia<br />
 3 -> Julia cubed
 
 # How?
@@ -12,7 +12,7 @@ make
 ./fractol [1<->3] 
 ```
 # Controls
-Use the mouse (not a pad, a mouse), use the arrows to move the map.
-iteration++ -> O
-iteration-- -> I
+Use the mouse (not a pad, a mouse), use the arrows to move the map.<br />
+iteration++ -> O<br />
+iteration-- -> I<br />
 Change the colors of the set by using the key C.
