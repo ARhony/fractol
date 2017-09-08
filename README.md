@@ -1,3 +1,5 @@
+![fractol picture](https://user-images.githubusercontent.com/24727426/30223660-136c915e-94cc-11e7-8efd-0783605c1fb7.png)
+
 # fractol
 This program will show you 3 different fractals. Mandelbrot, Julia and another version of Julia(cubbed).<br />
 1 -> Mandelbrot<br />
