@@ -18,4 +18,4 @@ iteration-- -> I<br />
 Change the colors of the set by using the key C.
 
 # Next
-Add the OpenCL lirary to bboost the program. It gets laggy when the number of iterations are above 75 and when the zoom is deep.
+Add the OpenCL lirary to boost the program. It gets laggy when the number of iterations is above 75 with a big zoom.
