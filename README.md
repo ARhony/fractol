@@ -16,3 +16,6 @@ Use the mouse (not a pad, a mouse), use the arrows to move the map.<br />
 iteration++ -> O<br />
 iteration-- -> I<br />
 Change the colors of the set by using the key C.
+
+# Next
+Add the OpenCL lirary to bboost the program. It gets laggy when the number of iterations are above 75 and when the zoom is deep.
